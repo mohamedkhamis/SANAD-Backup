@@ -11,7 +11,7 @@ Each release has:
 - `SanadSetup-<version>.exe`: the setup program (it also installs the Microsoft Edge WebView2 Runtime when it is missing);
 - `Sanad.Setup-<version>.msi`: the Windows Installer package, for `msiexec` and Group Policy.
 
-Each release's notes list the SHA-256 checksums of its files. Requirements: Windows 10 version 1809 or later,
-Windows 11, or Windows Server 2019 or later, x64.
+Each release's notes list the SHA-256 checksums of its files. Requirements: Windows 10 version 1809 (build 17763)
+or later, or Windows 11; x64.
 
 This repository holds the releases only. SANAD Backup is MIT-licensed (see [LICENSE](LICENSE)).
